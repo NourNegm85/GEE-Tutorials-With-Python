@@ -13,12 +13,12 @@ Welcome to my YouTube tutorial series for learning Google Earth Engine using Pyt
 
 🧪 Target audience: Arabic-speaking researchers, students, and professionals.
 
-🔗 YouTube Channel: [[Dr. Nour Negm YouTube](https://www.youtube.com/@DrNourEarthEngine)](#)  
-📬 Email: nourml2020@gmail.com
+🔗 YouTube Channel: [[Dr. Nour Negm YouTube](https://www.youtube.com/@DrNourEarthEngine)](#).  
 💼 LinkedIn: [linkedin.com/in/nour-ibrahim](#)  
 💻 GitHub: [github.com/NourNegm85](#)
+📬 Email: nourml2020@gmail.com
 
 # 📁 Notebooks
 | No. | Tutorial Title                     | Notebook File                               |
 |-----|------------------------------------|---------------------------------------------|
-| 01  | Your_First_Map                     | `01_Alexandria_Point_Map.ipynb`             |
+| 01  | Your_First_Map                     |              |
