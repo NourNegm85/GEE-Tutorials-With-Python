@@ -3,7 +3,7 @@ Google Earth Engine tutorials using Python (Colab)
 
 Welcome to my YouTube tutorial series for learning Google Earth Engine using Python (via Colab).
 
-![Channel Banner]()
+![Channel Banner](Banner1.png)
 
 🌍 These tutorials are focused on:
 - Earth observation
