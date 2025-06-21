@@ -32,7 +32,7 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 
 ## ▶️ YouTube Channel
 
-📺 [Dr. Nour Negm on YouTube](https://www.youtube.com/@DrNourEarthEngine)  
+📺 [Dr. Nour Negm](https://www.youtube.com/@DrNourEarthEngine)  
 👉 Subscribe for weekly Arabic-language tutorials
 
 ---
