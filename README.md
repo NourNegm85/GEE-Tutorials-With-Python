@@ -13,7 +13,7 @@ Welcome to my YouTube tutorial series for learning Google Earth Engine using Pyt
 
 🧪 Target audience: Arabic-speaking researchers, students, and professionals.
 
-🔗 YouTube Channel: [[Dr. Nour Negm YouTube](https://www.youtube.com/@DrNourEarthEngine)](#)  
+🔗 YouTube Channel: [https://www.youtube.com/@DrNourEarthEngine](#)  
 💼 LinkedIn: [linkedin.com/in/nour-ibrahim](#)  
 💻 GitHub: [github.com/NourNegm85](#)
 
