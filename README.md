@@ -39,8 +39,9 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 
 ## 📬 Contact
 
-💼 [LinkedIn](in/nour-ibrahim)
-💻 [GitHub](github.com/NourNegm85)
+💼 [LinkedIn](https://www.linkedin.com/in/nour-ibrahim)
+
+💻 [GitHub](https://github.com/NourNegm85)
 
 📬 Email: nourml2020@gmail.com
 
