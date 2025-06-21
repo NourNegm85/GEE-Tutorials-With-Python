@@ -23,3 +23,4 @@ Welcome to my YouTube tutorial series for learning Google Earth Engine using Pyt
 | No. | Tutorial Title                     | Notebook File                               |
 |-----|------------------------------------|---------------------------------------------|
 | 01  | Your_First_Map                     |              |
+| 02  | Get_and_Export_Sentinel_Image      |              |
