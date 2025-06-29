@@ -16,7 +16,7 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 | Video | Topic | Notebook |
 |-------|-------|----------|
 | 01 | Your First Map in GEE with Python | [View Notebook](notebooks/01_Your_First_Map.ipynb) |
-| 02 | Load Satellite Imagery, Filter by Date & Cloud, Export Image | [Coming Soon](#) |
+| 02 | Search, Visualize & Export Sentinel-2 Imagery | [Coming Soon](#) |
 
 > 💡 New videos and notebooks will be added weekly!
 
