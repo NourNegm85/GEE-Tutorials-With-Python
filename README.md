@@ -17,7 +17,7 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 |-------|-------|----------|
 | 01 | Your First Map in GEE with Python | [View Notebook](notebooks/01_Your_First_Map.ipynb) |
 | 02 | Search, Visualize & Export Sentinel-2 Imagery | [View Notebook](notebooks/02_Search,_Visualize_&_Export_Sentinel_2_Imagery.ipynb) |
-| 03 | Uploading and Using Shapefile  | [View Notebook](notebooks/03_Uploading_and_Using_Shapefiles.ipynb)
+| 03 | Uploading and Using Shapefile  | [View Notebook](notebooks/03_Uploading_and_Using_Shapefile.ipynb)
 
 > 💡 New videos and notebooks will be added weekly!
 
