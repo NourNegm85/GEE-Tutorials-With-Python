@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner1.png" alt="Dr. Nour Negm - GEE Tutorials" width="800">
+  <img src="Banner.png" alt="Dr. Nour Negm - GEE Tutorials" width="800">
 </p>
 
 # 📡 Google Earth Engine Tutorials with Python
