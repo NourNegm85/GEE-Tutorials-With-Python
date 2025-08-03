@@ -20,7 +20,7 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 | 03 | Uploading and Using Shapefiles with Landsat 9  | [View Notebook](notebooks/03_Uploading_and_Using_Shapefile.ipynb)
 | 04 | Compute NDVI with Cloud Masking from Sentinel-2 | [View Notebook](notebooks/04_Compute_NDVI_with_Cloud_Masking_from_Sentinel_2.ipynb)
 | 05 | NDVI Time Series Analysis using XEE and Landsat 8 (2014–2024 | [View Notebook](notebooks/05_NDVI_Time_Series_Analysis_using__XEE_and_Landsat_8_(2014–2024).ipynb)
-| 06 | Egypt Monthly Temperature Time Series & Annual Maps (2000–2024) | [View Notebook](notebooks/06_Egypt_Monthly_Temperature_Time_Series & Annual_Maps_(2000-2024).ipynb)
+| 06 | Egypt Monthly Temperature Time Series & Annual Maps (2000–2024) | [View Notebook](notebooks/06_Egypt_Monthly_Temperature_Time_Series%20%26%20Annual_Maps_(2000-2024).ipynb)
 > 💡 New videos and notebooks will be added weekly!
 
 ---
