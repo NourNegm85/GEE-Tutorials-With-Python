@@ -24,7 +24,7 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 | 07 | Sen’s Slope Analysis of Egypt Temperature Change (Last 25 Years) | [View Notebook](notebooks/07_Sen_Slope_Temperature_Trend_Egypt_(25_Years)_with_XEE.ipynb)
 | 09 | NDVI Split Map Comparison (2003 vs 2023) using geemap  | [View Notebook](notebooks/09_NDVI_Split_Map_Comparison_(2003%20vs%202023)_using_geemap.ipynb)
 | 10 | NDVI using Sentinel_2 and Landsat8 with_eemont | [View Notebook](notebooks/10_NDVI_using_Sentinel_2_and_Landsat8_with_eemont.ipynb)
-| 11 | SAVI using Sentinel_2 and Landsat8 with_eemont | [View Notebook](
+| 11 | SAVI using Sentinel_2 and Landsat8 with_eemont | [View Notebook](notebooks/11_SAVI_using_Sentinel_2_and_Landsat8_with_eemont.ipynb)
 > 💡 New videos and notebooks will be added weekly!
 
 ---
