@@ -26,7 +26,7 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 | 10 | NDVI using Sentinel_2 and Landsat8 with_eemont | [View Notebook](notebooks/10_NDVI_using_Sentinel_2_and_Landsat8_with_eemont.ipynb)
 | 11 | SAVI using Sentinel_2 and Landsat8 with_eemont | [View Notebook](notebooks/11_SAVI_using_Sentinel_2_and_Landsat8_with_eemont.ipynb)
 | 12 | NDMI using Sentinel-2 and Landsat8 with eemont | [View Notebook](notebooks/12_NDMI_using_Sentinel_2_and_Landsat8_with_eemont.ipynb)
-| 13 | EVI using Sentinel-2 and Landsat8 with eemont | [View Notebook](notebooks/12_NDMI_using_Sentinel_2_and_Landsat8_with_eemont.ipynb)
+| 13 | EVI using Sentinel-2 and Landsat8 with eemont | [View Notebook](notebooks/13_EVI_using_Sentinel_2_and_Landsat8_with_eemont.ipynb)
 > 💡 New videos and notebooks will be added weekly!
 
 ---
