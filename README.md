@@ -28,6 +28,8 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 | 12 | NDMI using Sentinel-2 and Landsat8 with eemont | [View Notebook](notebooks/12_NDMI_using_Sentinel_2_and_Landsat8_with_eemont.ipynb)
 | 13 | EVI using Sentinel-2 and Landsat8 with eemont | [View Notebook](notebooks/13_EVI_using_Sentinel_2_and_Landsat8_with_eemont.ipynb)
 | 15 | Unsupervised Land Cover Classification Using K-Means (Landsat-8)|[View Notebook](notebooks/15_Unsupervised_Land_Cover_Classification_Using_K_Means_and_Landsat-8.ipynb)
+| 16 | Collecting and Exporting Training Data Manually with geemap | [View Notebook](notebooks/16-Collecting_and_Exporting_Training_Data_Manually_with_geemap.ipynb)
+
 > 💡 New videos and notebooks will be added weekly!
 
 ---
