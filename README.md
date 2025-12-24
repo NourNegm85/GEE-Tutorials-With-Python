@@ -31,6 +31,7 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 | 16 | Collecting and Exporting Training Data Manually with geemap | [View Notebook](notebooks/16-Collecting_and_Exporting_Training_Data_Manually_with_geemap.ipynb)
 | 17 | CART LULC Classification Using Dynamic World Dataset & Sentinel-2 | [View Notebook](notebooks/17_CART%20LULC%20Classification%20Using%20Dynamic%20World%20Dataset%20%26%20Sentinel-2.ipynb)
 | 19 | Random Forest Detection of Harmful Algal Blooms |[View Notebook](notebooks/19_Random_Forest_Detection_of_Harmful_Algal_Blooms.ipynb)
+| 20 | Introduction to SAR and Sentinel-1  | [View Notebook](notebooks/20_Introduction_to_SAR_and_Sentinel-1.ipynb)
 > 💡 New videos and notebooks will be added weekly!
 
 ---
