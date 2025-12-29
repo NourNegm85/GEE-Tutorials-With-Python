@@ -42,7 +42,7 @@ Each video in the series includes a Jupyter notebook that you can run using [Goo
 - Satellite data, AOI processing
 - Hands-on learning using Colab notebooks
 
-🧪 Target audience: Arabic-speaking researchers, students, and professionals.
+🧪 Target audience: Researchers, students, and professionals.
 
 ## ▶️ YouTube Channel
 
